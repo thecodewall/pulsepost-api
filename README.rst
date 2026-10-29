@@ -41,7 +41,7 @@ First, run ``PostgreSQL``, set environment variables and create database. For ex
 
 Then run the following commands to bootstrap your environment with ``poetry``: ::
 
-    git clone https://github.com/nsidnev/fastapi-realworld-example-app
+    git clone https://github.com/thecodewall/pulsepost-api
     cd fastapi-realworld-example-app
     poetry install
     poetry shell
